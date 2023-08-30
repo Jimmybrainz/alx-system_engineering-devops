@@ -1,1 +1,1 @@
-A command to display current directory contents in a long format
+A command that displays current directory contents, including hidden files (starting with .). Use the long format
